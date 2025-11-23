@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Mark",
+            "surname": "Alferov",
+            "photo_url": "https://avatars.githubusercontent.com/u/67793608?v=4",
+            "balance": -1000
+        }
     ]
 }
