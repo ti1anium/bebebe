@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "users": [ 
         {
         "id": 3,
@@ -7,23 +6,20 @@
         "surname": "Latai",
         "photo_url": "https://i.pinimg.com/236x/82/a7/a9/82a7a9aa7922f03877eca56dc3367074.jpg",
         "balance": 1500
-=======
-    "users": [
+        }
         {
-<<<<<<< HEAD
-            "id": "2",
+           "id": "2",
             "name": "Ali",
             "surname": "Baba",
             "photo": "https://i.pinimg.com/736x/4f/b6/2d/4fb62dddc1d711416461febc14cc65a3.jpg",
             "balance": 1200
-=======
+        }
+        {
             "id": 1,
             "name": "Mark",
             "surname": "Alferov",
             "photo_url": "https://avatars.githubusercontent.com/u/67793608?v=4",
             "balance": -1000
->>>>>>> 822aec0c283342848b4e2592f4cf802946789a79
->>>>>>> e43f5b2c0893c215cf99e21612221177be615b99
         }
     ]
 }
