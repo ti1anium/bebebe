@@ -1,4 +1,15 @@
 {
+<<<<<<< HEAD
+    "users": [
+        {
+            "id":4,
+            "name":"Artem",
+            "surname":"Zhuk",
+            "photo_url":"",
+            "balance":1500
+        }
+        
+=======
     "users": [ 
         {
 <<<<<<< HEAD
@@ -30,5 +41,6 @@
             "photo_url": "https://avatars.githubusercontent.com/u/67793608?v=4",
             "balance": -1000
         }
+>>>>>>> 355cb004b4907eeb9b781ef787ccd96f1ab7f7f2
     ]
 }
