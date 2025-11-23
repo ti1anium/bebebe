@@ -1,19 +1,11 @@
 {
     "users": [
         {
-<<<<<<< HEAD
-            "id": "2",
-            "name": "Ali",
-            "surname": "Baba",
-            "photo": "https://i.pinimg.com/736x/4f/b6/2d/4fb62dddc1d711416461febc14cc65a3.jpg",
-            "balance": 1200
-=======
             "id": 1,
             "name": "Mark",
             "surname": "Alferov",
             "photo_url": "https://avatars.githubusercontent.com/u/67793608?v=4",
             "balance": -1000
->>>>>>> 45fffc7423e21a1851800bdf666bf425cc975a18
         }
     ]
 }
