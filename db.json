@@ -17,7 +17,6 @@
             "description": "vkusniashki iz sssr"
         },
         {
-            "id": 100,
             "name": "Молочний шоколад Ulker Дубайський",
             "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQjm09wzowTDcI2996x1mdKBai19IPUlt4YS9f0pW8eyf-soC4sRtdVgVHOXqVLjrOpEfSkpLDbcip8LGcrkD-Vs13og5YUXM6Q_V0X9XjTfK121LQglxp5OQ",
             "price": 200, 
@@ -30,7 +29,7 @@
             "price": "too expesive",
             "seller": "the one and only owner",
             "color": "24k gold" ,
-            "img": "https://www.out.com/media-library/labubu-24k-gold-doll-held-by-tiktok-lilzbullzofficial.jpg?id=61426382&width=1245&height=700&coordinates=0%2C0%2C0%2C0" ,
+            "image": "https://www.out.com/media-library/labubu-24k-gold-doll-held-by-tiktok-lilzbullzofficial.jpg?id=61426382&width=1245&height=700&coordinates=0%2C0%2C0%2C0" ,
             "description": "the one and only 24k karat gold labuwbuw made from 24k of gold"
         }
     ]
