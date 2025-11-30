@@ -7,6 +7,14 @@
             "color": "black",
             "image": "https://content1.rozetka.com.ua/goods/images/big/507062959.jpg",
             "description": "display: 6.9, Dynamic LTPO AMOLED 2X, 3120x1440 ; Qualcomm Snapdragon 8 Elite for Galaxy (4.47 ГГц + 3.53 ГГц) ; основна квадро-камера: 200 Мп + 50 Мп + 50 Мп + 10 Мп, фронтальна 12 Мп ; RAM 12 ГБ ; 512 ГБ вбудованої пам'яті"
+        },
+        {
+            "name": "Cesium-137",
+            "seller": "Iran",
+            "price": 100000,
+            "color": "silver-gold",
+            "image": "https://www.chemistrylearner.com/wp-content/uploads/2011/09/cesium.jpg",
+            "description": "vkusniashki iz sssr"
         }
     ]
 }
