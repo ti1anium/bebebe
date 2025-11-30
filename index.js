@@ -7,6 +7,8 @@
     for (let card of data.product) {
         const cardElement = document.createElement("div");
 
+        cardElement.className = "card";
+
         cardElement.innerHTML = `
             <h1 class="name">${card.name}</h1>
             <p class="price">${card.price}$</p>
