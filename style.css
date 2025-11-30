@@ -39,3 +39,25 @@ body {
 .price {
     font-size: 25px;
 }
+
+header img{
+   border-radius: 10px;
+    display: flex;
+   flex-direction: row;
+   float: left;
+   margin: 10px;
+}
+.top{
+   display: flex;
+   flex-direction: column;
+   color: white;
+}
+
+.top h1{
+   margin-right: 10px;
+}
+
+.top h2{
+    font-size: 20px;
+
+}
