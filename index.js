@@ -20,3 +20,8 @@
         cards.appendChild(cardElement);
     }
 })();
+
+let a = document.createElement("img");
+a.width = 500
+a.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2Dp8wYxXZA3PO7014M1Wuz0QOAYYM9Gk1Q&s";
+document.getElementsByTagName("body")[0].appendChild(a);
