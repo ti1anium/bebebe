@@ -12,7 +12,7 @@
         cardElement.innerHTML = `
             <h1 class="name">${card.name}</h1>
             <p class="price">${card.price}$</p>
-            <img src="${card.image}">
+            <img src="${card.image}" class="icon">
             <p class="description">${card.description}</p>
             <p class="color">Color: ${card.color}</p>
         `;
